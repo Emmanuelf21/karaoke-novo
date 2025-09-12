@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+# 🎤 Karaoke Novo
 
-## Project info
+Projeto frontend de Karaokê desenvolvido com React, TypeScript, Vite e Tailwind CSS, integrado com Supabase.  
+👉 **Deploy:** [karaoke-novo.vercel.app](https://karaoke-novo.vercel.app)
 
-**URL**: https://lovable.dev/projects/f323fd73-5ac9-44bd-a1b3-43d597a88f3a
+---
 
-## How can I edit this code?
+## 🧱 Tecnologias
 
-There are several ways of editing your application.
+- ⚡ Vite  
+- ⚛️ React + TypeScript  
+- 🎨 Tailwind CSS  
+- 🧩 shadcn-ui  
+- 🗄️ Supabase (backend/database)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f323fd73-5ac9-44bd-a1b3-43d597a88f3a) and start prompting.
+## 🚀 Funcionalidades
 
-Changes made via Lovable will be committed automatically to this repo.
+- Interface interativa para experiência de karaokê  
+- Integração com Supabase para autenticação e gerenciamento de dados  
+- Layout responsivo e moderno com Tailwind CSS  
+- Componentização com shadcn-ui  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Como rodar localmente
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/Emmanuelf21/karaoke-novo.git
+   ```
+2. Entre na pasta do projeto:  
+   ```bash
+   cd karaoke-novo
+   ```
+3. Instale as dependências:  
+   ```bash
+   npm install
+   ```
+4. Configure o arquivo `.env` com suas credenciais do Supabase.  
+5. Inicie o servidor de desenvolvimento:  
+   ```bash
+   npm run dev
+   ```
+6. Acesse em `http://localhost:3000`.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📦 Estrutura do Projeto
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+| Pasta / Arquivo      | Função                                                        |
+|----------------------|---------------------------------------------------------------|
+| `src/`               | Código fonte (componentes, páginas, hooks, etc.)              |
+| `public/`            | Arquivos estáticos                                            |
+| `supabase/`          | Configurações relacionadas ao Supabase                        |
+| `.env`               | Variáveis de ambiente (ex.: chaves Supabase)                  |
+| `tailwind.config.ts` | Configuração do Tailwind CSS                                  |
+| `vite.config.ts`     | Configuração do Vite                                          |
+| `package.json`       | Dependências e scripts                                        |
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## ⚙️ Deploy
 
-**Edit a file directly in GitHub**
+Este projeto está hospedado na **Vercel**:  
+👉 [https://karaoke-novo.vercel.app](https://karaoke-novo.vercel.app)  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📋 Como contribuir
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Fork do repositório  
+2. Crie uma branch para sua feature/correção:  
+   ```bash
+   git checkout -b minha-feature
+   ```  
+3. Faça commits claros  
+4. Abra um Pull Request para a branch `main`  
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🧩 Licença
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f323fd73-5ac9-44bd-a1b3-43d597a88f3a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Este projeto está sob a licença **MIT**.  
