@@ -1,6 +1,5 @@
-# 🎤 Karaoke Novo
-
-Projeto frontend de Karaokê desenvolvido com React, TypeScript, Vite e Tailwind CSS, integrado com Supabase.  
+# 🎤 Karaoke Jam
+Projeto Reserva de Karaokê desenvolvido com React, TypeScript, Vite e Tailwind CSS, integrado com Supabase.  
 👉 **Deploy:** [karaoke-novo.vercel.app](https://karaoke-novo.vercel.app)
 
 ---
@@ -17,7 +16,7 @@ Projeto frontend de Karaokê desenvolvido com React, TypeScript, Vite e Tailwind
 
 ## 🚀 Funcionalidades
 
-- Interface interativa para experiência de karaokê  
+- Reserva de Espaço para karaokê
 - Integração com Supabase para autenticação e gerenciamento de dados  
 - Layout responsivo e moderno com Tailwind CSS  
 - Componentização com shadcn-ui  
@@ -67,19 +66,9 @@ Este projeto está hospedado na **Vercel**:
 👉 [https://karaoke-novo.vercel.app](https://karaoke-novo.vercel.app)  
 
 ---
-
-## 📋 Como contribuir
-
-1. Fork do repositório  
-2. Crie uma branch para sua feature/correção:  
-   ```bash
-   git checkout -b minha-feature
-   ```  
-3. Faça commits claros  
-4. Abra um Pull Request para a branch `main`  
-
----
-
-## 🧩 Licença
-
-Este projeto está sob a licença **MIT**.  
+## Integrantes
+- Alfredo Regner
+- Breno Zein
+- Emmanuel Franco
+- João Henrique
+- Mateus Profeta
