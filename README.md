@@ -5,7 +5,7 @@ No mercado atual de karaokês, a maioria das reservas ainda é feita por telefon
 ---
 
 ## Pesquisa de Mercado
-1. Espaço 162 (São Paulo, SP
+1. Espaço 162 (São Paulo, SP)
    - O que faz: bar/entretenimento com karaokê que oferece salas privativas para grupos de até 35 pessoas, comida, petiscos, ambiente agradável.
    - Dor / necessidade: reservas feitas via WhatsApp ou presencialmente podem gerar conflitos de horários, atrasos, ligações perdidas; difícil controle de ocupação de salas nos dias mais movimentados.
    - Como o sistema ajudaria: permitir reserva de salas online em tempo real, ver disponibilidade das salas, confirmar horário de forma automática, reduzir chamadas e erros de agendamento, melhorar uso eficiente do espaço.
