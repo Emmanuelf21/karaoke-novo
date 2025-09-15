@@ -3,6 +3,11 @@
 No mercado atual de karaokês, a maioria das reservas ainda é feita por telefone ou presencialmente, o que gera inconvenientes como filas, chamadas não atendidas e perda de tempo. Pensando nisso, desenvolvemos um sistema de reserva online que permite aos usuários agendar horários de forma rápida, prática e segura, diretamente pelo celular ou computador. Com poucos cliques, o cliente escolhe o dia, o horário e até a sala desejada. Diferente de soluções tradicionais, nosso sistema oferece confirmação em tempo real, histórico de reservas e integração com calendários digitais, trazendo comodidade tanto para os clientes quanto para os estabelecimentos.
 
 ---
+## Video Explicativo
+
+https://youtu.be/p4ghUcqrChs?si=j_MPE1DCC8w082qj
+
+---
 
 ## 🔎 Pesquisa de Mercado
 1. Espaço 162 (São Paulo, SP)
