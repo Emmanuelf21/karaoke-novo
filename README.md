@@ -9,7 +9,7 @@ No mercado atual de karaokês, a maioria das reservas ainda é feita por telefon
 ---
 ## Video Explicativo
 
-https://youtu.be/p4ghUcqrChs?si=j_MPE1DCC8w082qj
+https://youtu.be/p4ghUcqrChs?si=j_MPE1DCC8w082qj 
 
 ---
 
